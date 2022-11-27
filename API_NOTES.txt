@@ -1,0 +1,70 @@
+API notes gleaned from LBAL pak & modding; Nov 27, 2022
+
+Text shortcuts
+
+<icon_symbolname> -> icon of a symbol
+<group_groupname> -> all icons of a group
+
+Groups
+
+"animal"
+"anvillikes" -> what dwarves with anvils like
+"archlikes"
+"arrow"
+"beelikes"
+"bird"
+"booze"
+"box" -> accumulator / contains something
+"capsule"
+"chest"
+"chickenstuff"
+"counted" -> tracks counts of items
+"darkhumor"
+"destroyable_matryoshka" -> matryoshka dolls & golems
+"dice"
+"doglikes" -> what the dog likes
+"dwarflikes"
+"eachother" -> more than one has a collective impact
+"farmerlikes"
+"food"
+"fossillikes"
+"fruit"
+"fruitlikes" -> what mrs_fruit will eat
+"funny"
+"gem"
+"halloween" -> candy-related
+"hex"
+"human"
+"minerlikes"
+"monkeylikes"
+"night"
+"omelettestuff"
+"ore"
+"organism" -> humans; animals; poslikes
+"piratelikes"
+"plant"
+"poslikes" -> seafood; snail; anchor
+"raritymod" -> increases rare item chance
+"richlikes" -> billionaire stuff
+"robinhates"
+"robinlikes"
+"scaler" -> multiplies based on destroyed items?
+"slow" -> doesn't provide gold every turn
+"spawner0"
+"spawner1"
+"spiritbox" -> holds spirits
+"suit"
+"time_machine" -> delayed effect
+"time_machine3" -> delayed effect x3
+"toddlerlikes"
+"triggerchance" -> chance of symbol being triggered
+"triggerhex" -> hex that can be triggered by an event
+"void"
+"witchlikes"
+
+Rarity
+
+"common"
+"uncommon"
+"rare"
+"very_rare"
